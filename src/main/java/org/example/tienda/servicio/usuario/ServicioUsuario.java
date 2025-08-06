@@ -90,6 +90,6 @@ public class ServicioUsuario implements ImplementacionUsuario {
         repositorioUsuario.save(buscarUsuario);
 
         return usuario;
-        
+
     }
 }
